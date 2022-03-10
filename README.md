@@ -43,6 +43,7 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
 - :anchor: &nbsp;Build Tools/Platforms: &nbsp;
   ![](https://img.shields.io/badge/-AWS-0A1A2F?style=flat&logo=Amazon%20AWS)
   ![](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
+  ![](https://img.shields.io/badge/-Kubernetes-0A1A2F?style=flat&logo=Kubernetes)
   ![](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)
   ![](https://img.shields.io/badge/-Jenkins-0A1A2F?style=flat&logo=Jenkins)
   
