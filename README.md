@@ -53,7 +53,11 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
   ![](https://img.shields.io/badge/-Arduino-0A1A2F?style=flat&logo=Arduino)
 
 
+
+[<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman268&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/mirarifhasan)
+
 ---
+
 💬 <b>Drop a mail:</b> <a href="mailto:arif.ishan05@gmail.com" target="_blank">arif.ishan05@gmail.com</a>
 
 
