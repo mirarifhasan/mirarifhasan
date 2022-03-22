@@ -54,7 +54,7 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
 
 
 
-[<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman268&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/mirarifhasan)
+[<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mirarifhasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/mirarifhasan)
 
 ---
 
