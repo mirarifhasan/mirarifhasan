@@ -18,6 +18,7 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
 - :dagger: &nbsp;Languages:&nbsp;
   ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
   ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
   ![](https://img.shields.io/badge/-C_Sharp-0A1A2F?style=flat&logo=csharp)
@@ -26,6 +27,7 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
 
 - :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
   ![](https://img.shields.io/badge/-NestJS-0A1A2F?style=flat&logo=nestjs)
+  ![](https://img.shields.io/badge/-Gin-0A1A2F?style=flat&logo=go)
   ![](https://img.shields.io/badge/-Spring_Boot-0A1A2F?style=flat&logo=Springboot)
   ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
   ![](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular)
