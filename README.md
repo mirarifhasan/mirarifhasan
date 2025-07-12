@@ -1,18 +1,16 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mirarifhasan&show_icons=true"/>](https://github.com/mirarifhasan)
+## Mir Arif Hasan [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mirarifhasan&show_icons=true"/>](https://github.com/mirarifhasan)
 
-## Mir Arif Hasan
-
-> Product Engineer, Backend at [Hoppscotch](https://hoppscotch.io/)
+> Senior Software Engineer, Backend at [Hoppscotch](https://hoppscotch.io/)
 
 
 [![](https://img.shields.io/badge/WWW-MirArifHasan-0A1A2F?style=flat)](https://sites.google.com/view/mirarifhasan)
 [![](https://img.shields.io/badge/-MirArifHasan-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirarifhasan)
 
 
-Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful software products that change people’s lives for the better.
-
+Hi there, this is Mir Arif Hasan from :bangladesh:. Love to build impactful software products that change people’s lives for the better.
 
 ---
+
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
 - :dagger: &nbsp;Languages:&nbsp;
@@ -56,8 +54,7 @@ Hi there, This is Mir Arif Hasan from :bangladesh:. Love to build impactful soft
   ![](https://img.shields.io/badge/-Arduino-0A1A2F?style=flat&logo=Arduino)
 
 
-
-[<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mirarifhasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/mirarifhasan)
+<!-- [<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mirarifhasan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/mirarifhasan) -->
 
 ---
 
